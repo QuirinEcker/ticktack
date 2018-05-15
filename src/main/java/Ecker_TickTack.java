@@ -29,6 +29,6 @@ public class Ecker_TickTack extends PApplet {
             count++;
             rowCount++;
         }
-
+        System.exit(0);
     }
 }
